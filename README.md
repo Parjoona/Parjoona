@@ -5,11 +5,15 @@ I have a bachelor degree in E-business from Westerdals Oslo ACT.
 Currently I am working as a IT consultant at Netcompany.
 
 ### Latest activity:
-Developing a Administrative portal for [Ferde](https://ferde.no/) & [Vegamot](https://www.vegamot.no/)
-___
-Developed a Self-Service portal for [Fremtind Service](https://fremtindservice.no/)
-___
-Developed a innovative product for [Wilhelmsen](https://www.wilhelmsen.com/)
+
+> #### 11-2020 until 04-2021 
+>Developing a Administrative portal for [Ferde](https://ferde.no/) & [Vegamot](https://www.vegamot.no/)
+
+> #### 06-2020 until 11-2021
+> Developed a Self-Service portal for [Fremtind Service](https://fremtindservice.no/)
+
+> #### 01-2020 until 06-2021
+> Developed a innovative product for [Wilhelmsen](https://www.wilhelmsen.com/)
 
 ### Contact:  
 <a href="https://www.linkedin.com/in/p%C3%A4r-joona-63764216a">
