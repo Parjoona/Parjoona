@@ -3,6 +3,10 @@
 My name is Pär Joona.  
 I have a bachelor degree in E-business from Westerdals Oslo ACT.  
 Currently I am working as a IT consultant at Netcompany.
+ 
+<a href="https://www.linkedin.com/in/p%C3%A4r-joona-63764216a">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ### Latest activity:
 
@@ -14,11 +18,6 @@ Currently I am working as a IT consultant at Netcompany.
 
 > #### 01-2020 until 06-2021
 > Developed a innovative product for [Wilhelmsen](https://www.wilhelmsen.com/)
-
-### Contact:  
-<a href="https://www.linkedin.com/in/p%C3%A4r-joona-63764216a">
-  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 ### Latest technologies
 *Languages*  
