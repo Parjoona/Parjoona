@@ -9,9 +9,12 @@ Currently I am working as a IT consultant at Netcompany.
 </a>
 
 ### Latest activity:
+> #### Current 
+> New employer [ITVerket](https://www.itverket.no/)
+> Developing a Administrative portal for [Otto](https://www.otto.no/)
 
 > #### 11-2020 until 04-2021 
->Developing a Administrative portal for [Ferde](https://ferde.no/) & [Vegamot](https://www.vegamot.no/)
+> Developing a Administrative portal for [Ferde](https://ferde.no/) & [Vegamot](https://www.vegamot.no/)
 
 > #### 06-2020 until 11-2021
 > Developed a Self-Service portal for [Fremtind Service](https://fremtindservice.no/)
