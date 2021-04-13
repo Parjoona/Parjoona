@@ -42,7 +42,6 @@ Currently I am working as a IT consultant at Netcompany.
 ### Weekly workload:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   28 hrs 3 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.56 % 
-JSON         1 hr 55 mins    ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.39 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
