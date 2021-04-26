@@ -2,7 +2,7 @@
 
 My name is Pär Joona.  
 I have a bachelor degree in E-business from Westerdals Oslo ACT.  
-Currently I am working as a IT consultant at Netcompany.
+Currently I am working as a IT consultant at [ITVerket](https://www.itverket.no/).
  
 <a href="https://www.linkedin.com/in/p%C3%A4r-joona-63764216a">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,7 +10,6 @@ Currently I am working as a IT consultant at Netcompany.
 
 ### Latest activity:
 > #### Current 
-> New employer [ITVerket](https://www.itverket.no/)
 > Developing a Administrative portal for [Otto](https://www.otto.no/)
 
 > #### 11-2020 until 04-2021 
