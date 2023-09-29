@@ -9,11 +9,17 @@ Currently I am working as a IT consultant at [ITVerket](https://www.itverket.no/
 </a>
 
 ### Latest activity:
-> #### Current 
-> Developing a Administrative portal for [Otto](https://www.otto.no/)
+> #### Current
+> Developer for Handelsbanken [Handelsbanken](https://www.handelsbanken.no/no/)
+
+> #### 08-2021 until 05-2023 
+> Developed and maintained frontend solutions for [BBL Pivotal](https://bblpivotal.no/)
+
+> #### 04-2021 until 08-2021 
+> Developed a Administrative portal for [Otto](https://www.otto.no/)
 
 > #### 11-2020 until 04-2021 
-> Developing a Administrative portal for [Ferde](https://ferde.no/) & [Vegamot](https://www.vegamot.no/)
+> Developed a Administrative portal for [Ferde](https://ferde.no/) & [Vegamot](https://www.vegamot.no/)
 
 > #### 06-2020 until 11-2021
 > Developed a Self-Service portal for [Fremtind Service](https://fremtindservice.no/)
